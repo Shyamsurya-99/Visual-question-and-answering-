@@ -1,4 +1,4 @@
-# A_16_mVQA Code Files
+# mVQA Code Files
 
 This repository contains multiple Visual Question Answering (VQA) models applied to a medical dataset. The models use different architectures for feature extraction from images and text. The dataset and the required code files are organized as follows:
 
