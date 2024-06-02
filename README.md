@@ -1,5 +1,4 @@
-# Visual-question-and-answering
-# mVQA Code Files
+# A_16_mVQA Code Files
 
 This repository contains multiple Visual Question Answering (VQA) models applied to a medical dataset. The models use different architectures for feature extraction from images and text. The dataset and the required code files are organized as follows:
 
@@ -35,6 +34,9 @@ The repository consists of 5 code files:
 The dataset required for executing the above codes is provided in the `A_16_mQVA_Dataset` folder. This folder consists of:
 - A `.csv` file containing metadata and labels.
 - A folder containing radiology images of brain, chest, and abdomen.
+
+The dataset can also be accessed and downloaded from Kaggle using the following link:
+[VQA-RAD: Visual Question Answering Radiology](https://www.kaggle.com/datasets/mdzeeshanhassan/vqa-rad-visual-question-answering-radiology)
 
 ## Instructions
 
