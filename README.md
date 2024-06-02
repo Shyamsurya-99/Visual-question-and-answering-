@@ -44,3 +44,8 @@ The dataset can also be accessed and downloaded from Kaggle using the following 
    ```bash
    git clone https://github.com/yourusername/A_16_mVQA.git
    cd A_16_mVQA
+2 Run the notebook as per your requirement:
+  ```bash
+jupyter notebook vgg16_reset50_BiLSTM.ipynb
+# or any other notebook
+
